@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Reverse Network - Remiel<br>🌱 I’m currently learning Java - JavaFX<br>💬 Ask me about burak.onallls3@gmail.com<br>🥳 Software is a way of life, like a tree planting its roots in paradise.
+🔭 I’m currently working on Reverse Network - Remiel<br>🌱 I’m currently learning C++<br>💬 Ask me about burak.onallls3@gmail.com<br>🥳 Software is a way of life, like a tree planting its roots in paradise.
 
 
 ## 🌐 Socials:
